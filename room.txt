@@ -1,0 +1,16 @@
+16 15
+xxxxxxxxxxxxxxxx
+xxxxxxxxxxwwwwwx
+xxxxxxxxxxwfffwx
+xxxxxxxxxxwfffwx
+xxxxxxxxxxwfffwx
+xxxxxxxxxxwfffwx
+xxxxxxxxxwwfffwx
+xxxxxxxxwwfffwwx
+xwwwwwwwwfffwwxx
+xwffffffffffwxxx
+xwfffffffffwwxxx
+xwffffffffwwxxxx
+xwwwwwwwwwwxxxxx
+xxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxx
